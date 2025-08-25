@@ -2,5 +2,5 @@
 <h1>
 Your interview jorney starts here.
 </h1>
-<img src="https://frontendlovers.dev/logo.svg" width="100"/>
+<img src="https://github.com/DevLoversTeam/devlovers.net/blob/main/public/github-logo.svg" width="100"/>
 </div>
